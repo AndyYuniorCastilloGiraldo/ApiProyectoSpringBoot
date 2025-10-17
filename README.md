@@ -19,4 +19,4 @@ Permite la gestión de materiales, inventario y usuarios con roles.
 
 ## 🧠 Desarrollado por
 **Andy Yunior Castillo Giraldo**  
-[LinkedIn](https://www.linkedin.com/in/andy-castillo-girald)  
+[LinkedIn](https://www.linkedin.com/in/andy-castillo-giraldo-248ba7351/)  
