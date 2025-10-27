@@ -52,7 +52,7 @@ public class ConteoController {
         material.setConteo(cantidadContada);
         material.setObs(obs);
         material.setFecReg(LocalDateTime.now());
-        material.setUsuario(usuario.getNombreCompleto()); // 👈 aquí el nombre completo
+        material.setUsuario(usuario.getNombreCompleto()); //  aquí el nombre completo
 
         return materialService.guardar(material);
     }
