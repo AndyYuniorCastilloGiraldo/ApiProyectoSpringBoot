@@ -1,4 +1,4 @@
-# API de Gestión de Materiales 🧱
+# API de Gestión y seguimiento de Materiales 🧱
 
 Proyecto backend desarrollado con **Java + Spring Boot + MySQL**.  
 Permite la gestión de materiales, inventario y usuarios con roles.
